@@ -1,2 +1,2 @@
-spamotp
+#spamotp
 git clone https://github.com/mave3188/butterfly- cd butterfly- && make run
